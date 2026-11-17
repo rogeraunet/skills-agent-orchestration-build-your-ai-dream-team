@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Community Portal",
+      "owner": "Maya Chen",
+      "status": "On track",
+      "recentActivity": "Contributor onboarding flow approved yesterday",
+      "priority": "High",
+      "summary": "Help new contributors find their first issue and get set up quickly."
+    },
+    {
+      "name": "Mobile Checkout",
+      "owner": "Andre Patel",
+      "status": "Needs attention",
+      "recentActivity": "Payment retry testing uncovered an intermittent issue",
+      "priority": "At risk",
+      "summary": "Improve the checkout experience and make payment recovery more reliable."
+    },
+    {
+      "name": "Analytics Refresh",
+      "owner": "Sofia Ramirez",
+      "status": "In progress",
+      "recentActivity": "Dashboard filter prototype shared for team feedback",
+      "priority": "Medium",
+      "summary": "Give teams clearer product usage insights with refreshed reports and filters."
+    },
+    {
+      "name": "Accessibility Improvements",
+      "owner": "Jordan Lee",
+      "status": "In progress",
+      "recentActivity": "Keyboard navigation audit completed for account settings",
+      "priority": "High",
+      "summary": "Make core workflows easier to use with assistive technology and keyboard navigation."
+    },
+    {
+      "name": "API Documentation",
+      "owner": "Elliot Brooks",
+      "status": "Planning",
+      "recentActivity": "Endpoint inventory gathered for the next documentation sprint",
+      "priority": "Low",
+      "summary": "Help developers integrate confidently with practical, up-to-date API guides."
+    }
+  ]
+}
